@@ -16,7 +16,7 @@
         console.log(msg);
     }
 
-// odd or even
+// odd or even number
 let num=9;
 if (num%2==0){
     let msg=`${num} is even number`;
@@ -28,4 +28,3 @@ else{
 }
 
 //nested if else
-    
